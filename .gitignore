@@ -1,0 +1,7 @@
+*.idea
+*.pyc
+__pycache__/
+*.bam
+*.fastq.gz
+*.vcf
+results/
